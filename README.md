@@ -1,4 +1,5 @@
 ## 基于Vue框架的电商后台管理系统
+在线演示：[https://shop.wehstudy.xyz/](https://shop.wehstudy.xyz/)
 + 登录页面
 ![image](https://user-images.githubusercontent.com/97448322/187030226-96a13c6a-c4ea-4787-8541-93196d73633d.png)
 + 后台角色管理
